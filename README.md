@@ -1,9 +1,9 @@
 <!-- Welcome Animation -->
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
   <h1>< Syed Ahmer Shah /></h1>
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3CE0F7&center=true&vCenter=true&random=false&width=500&lines=Software+Engineering+Undergraduate;AI+Based+Web+Developer;Problem+Solver;C%2B%2B+Developer;Java+Developer;Prompt+Engineering+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3CE0F7&center=true&vCenter=true&random=false&width=440&lines=Software+Engineering+Undergraduate;AI+Based+Web+Developer;Problem+Solver;C%2B%2B+Developer;Java+Developer;Prompt+Engineering+Enthusiast" alt="Typing SVG" />
   </div>
 </div>
 
@@ -22,7 +22,7 @@
 <h2 align="center">⚡ Transforming Ideas into Digital Reality ⚡</h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder" width="500">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder" width="300">
 </div>
 
 <!-- About Me Section -->
@@ -59,46 +59,46 @@ const ahmer = {
 
 <table align="center">
   <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="55" height="55" />
       <br>C++
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
       <br>Java
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
       <br>Python
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
       <br>JavaScript
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
       <br>React
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
       <br>GitHub
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
       <br>MySQL
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="55" height="55" />
       <br>Nginx
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" />
       <br>TypeScript
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55" />
       <br>AWS
     </td>
   </tr>
@@ -108,10 +108,10 @@ const ahmer = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syedahmershah&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=syedahmershah&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="Trophy" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=syedahmershah&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" width="49%" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedahmershah&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" width="49%" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=syedahmershah&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" width="100%" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedahmershah&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" width="100%" alt="Languages" />
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedahmershah&bg_color=1a1b27&color=38bdae&line=628fdb&point=38bdae&area=true&hide_border=true&radius=8" alt="Activity" width="100%" />
 </div>
@@ -119,7 +119,7 @@ const ahmer = {
 ## 🎯 2028 Goals Roadmap
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Goals" width="400">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Goals" width="300">
 </div>
 
 ```mermaid
@@ -163,7 +163,7 @@ gantt
 ## 🔗 Connect & Collaborate
 
 <div align="center">
-  <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" alt="Connect" width="400">
+  <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" alt="Connect" width="300">
 </div>
 
 <p align="center">
@@ -196,13 +196,13 @@ gantt
 
 <!-- Final Section -->
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Developer" width="200">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Developer" width="150">
   <br><br>
   <blockquote>
-    <p align="center">
+    <p align="center" style="font-size: 0.9em;">
       <em>"Write code with logic, train models with precision & trust the divine architecture that powers it all"</em>
     </p>
-    <p align="center">
+    <p align="center" style="font-size: 0.9em;">
       <em>- Ahmer Shah</em>
     </p>
   </blockquote>
