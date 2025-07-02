@@ -127,14 +127,14 @@ gantt
     title My Learning Roadmap
     dateFormat  YYYY-MM-DD
     section DSA & Algorithms
-    Master Core DSA           :2024-01-01, 180d
-    LeetCode 150+ Problems    :2024-06-01, 180d
+    Master Core DSA           :2025-01-01, 180d
+    LeetCode 150+ Problems    :2025-06-01, 180d
     section Development
-    Full Stack Development    :2024-01-01, 365d
-    AI Integration           :2024-06-01, 180d
+    Full Stack Development    :2025-01-01, 365d
+    AI Integration           :2025-06-01, 180d
     section Projects
-    Build SaaS Projects      :2024-03-01, 270d
-    Open Source Contribution :2024-01-01, 365d
+    Build SaaS Projects      :2025-03-01, 270d
+    Open Source Contribution :2025-01-01, 365d
 ```
 
 ## 🌟 Featured Projects
